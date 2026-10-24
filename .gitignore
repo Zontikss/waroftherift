@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# ForgeGradle run directories and local publishing
+run/
+run-data/
+mcmodsrepo/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.eclipse/
+.settings/
+.project
+.classpath
+bin/
+out/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / crash reports
+*.log
+hs_err_pid*
